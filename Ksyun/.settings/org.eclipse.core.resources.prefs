@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//ksyunapi/eip_info.py=utf8
+encoding//ksyunapi/fetch_monitor_data.py=utf8
+encoding//ksyunapi/instances_info.py=utf8
+encoding//ksyunapi/ksyun_access.py=utf8
+encoding//ksyunapi/ksyun_mysql.py=utf-8
+encoding//ksyunapi/monitor_info.py=utf-8

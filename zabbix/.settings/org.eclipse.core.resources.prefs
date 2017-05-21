@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding/add_host.py=utf-8
+encoding/ahaha.py=utf-8
+encoding/monitor_mysql.py=utf-8
+encoding/python_url_login.py=utf-8
+encoding/url_require_status.py=utf-8
+encoding/url_require_status_conf.py=utf8
+encoding/zabbix_api_decorator.py=gbk
+encoding/zabbix_auth.py=utf8
+encoding/zabbix_fabric.py=utf-8
+encoding/zk_kazoo.py=utf-8
